@@ -18,7 +18,7 @@ body{
     background-color:var(--dark-bg);
     color:var(--text);
     line-height:1.6;
-    overflow: hidden;
+    overflow: auto;
 }
 .navbar{
     position: fixed;
@@ -130,7 +130,7 @@ transition:width 0.3s ease;
     text-decoration: none;
     transition: all 0.3s ease;
     position: relative;
-    overflow: hidden;
+    overflow: auto;
 
 }
 .skills{
